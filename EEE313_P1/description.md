@@ -1,0 +1,1 @@
+Sweeping LED lights. Starts from left, goes to the right then left again and loops.
