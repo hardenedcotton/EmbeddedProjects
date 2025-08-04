@@ -1,5 +1,5 @@
-# Counter circuit
-|            |                                              |
+# Counter circuit 
+| Python     |                                              |
 |------------|----------------------------------------------|
 | **7SEG**   | Counts up to desired value (in this case 10) |
 | **Button** | Initianlizes count                           |
