@@ -1,0 +1,1 @@
+Steady hands game. You have to make sure you don’t move the accelerometer sensor too fast or you will fail.
