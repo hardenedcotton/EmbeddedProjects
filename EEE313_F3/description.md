@@ -8,3 +8,7 @@
 | **Motor**  | Chronometer, goes from 0 to 180 with steps   |
 | **Pot**    | Sets the pace of the countdown               |
 | **LDR**    | Changes the frequency of beep                |
+
+Video:
+
+[![YouTube Link](https://img.youtube.com/vi/pDy0Fl3NSSU/0.jpg)](https://www.youtube.com/watch?v=pDy0Fl3NSSU)
