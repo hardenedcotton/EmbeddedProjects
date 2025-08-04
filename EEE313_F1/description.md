@@ -1,0 +1,1 @@
+Controlling the angle of the servo motor with a potentiometer.
