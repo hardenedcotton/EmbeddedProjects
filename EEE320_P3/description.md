@@ -2,4 +2,4 @@ Bluetooth controlled motor. You can input motor speed and direction through your
 
 Video:
 
-[![Youtube Link](https://img.youtube.com/vi/M1bKBRSDTgY/0.jpg)](https://www.youtube.com/watch?v=M1bKBRSDTgY)
+[![YouTube Link](https://img.youtube.com/vi/M1bKBRSDTgY/0.jpg)](https://www.youtube.com/watch?v=M1bKBRSDTgY)
