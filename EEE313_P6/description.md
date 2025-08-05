@@ -1,4 +1,4 @@
-1 16x2 LCD Control Circut.
+1 16x2 LCD Control Circuit.
 
 Video:
 
